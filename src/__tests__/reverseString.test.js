@@ -9,4 +9,9 @@ describe("testing the reverseString function", () => {
 		expect(reverseString("Abcdef")).toEqual("fedcbA");
 		expect(reverseString("RanDOm cAsE")).toEqual("EsAc mODnaR");
 	});
+
+	it("should work with numbers too", () => {
+		expect(reverseString("12345abcdef")).toEqual("fedcba54321");
+		expect(reverseString("12345")).toEqual("54321");
+	});
 });
