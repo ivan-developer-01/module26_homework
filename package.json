@@ -1,0 +1,19 @@
+{
+  "name": "module26_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-developer-01/module26_homework.git"
+  },
+  "author": "ivan-developer-01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-developer-01/module26_homework/issues"
+  },
+  "homepage": "https://github.com/ivan-developer-01/module26_homework#readme"
+}
